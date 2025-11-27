@@ -1,0 +1,37 @@
+Ontario Lake Water Quality Report – 2025 (Mocked Summary)
+2025 年安大略湖水质状况报告 – 模拟摘要
+
+1. Monitoring Overview / 监测概况
+- In 2025, multiple sampling stations around Lake Ontario were monitored for nutrients, microbial indicators, and heavy metals.
+- 2025 年在安大略湖周边多个监测点对营养盐、微生物指标和重金属进行了监测。
+- Most samples were collected in spring (high runoff season) and late summer.
+
+2. Nitrate Levels / 硝酸盐水平
+- Average nitrate concentration across monitored sites: about 28 mg/L (as NO₃⁻), which is below the WHO guideline of 50 mg/L.
+- 在大部分监测点，硝酸盐平均浓度约为 28 mg/L（以 NO₃⁻ 计），低于 WHO 推荐的 50 mg/L 限值。
+- During spring agricultural runoff, short-term peaks up to 58 mg/L were observed at some rural inflow locations.
+- 在春季农业径流集中的时期，一些农村入湖河道短期峰值可达 58 mg/L。
+- These peak events were short-lived but indicate the need for continuous monitoring and better fertilizer management.
+- 这些峰值事件持续时间较短，但表明需要持续监测并改善施肥管理。
+
+3. Heavy Metals in Nearshore Areas / 近岸重金属情况
+- Cadmium (Cd) was typically around 0.002 mg/L, close to but still below the WHO guideline of 0.003 mg/L.
+- 镉（Cd）在多数近岸样点大约为 0.002 mg/L，接近但仍低于 WHO 指南 0.003 mg/L。
+- Arsenic (As) averaged 0.008 mg/L, slightly below the 0.01 mg/L guideline.
+- 砷（As）平均值约为 0.008 mg/L，略低于 0.01 mg/L 指南值。
+- Localized hotspots were occasionally detected near historical industrial discharge zones.
+- 在历史工业排放区附近偶尔观测到局部高值“热点”。
+
+4. Microbial Indicators / 微生物指标
+- Most treated drinking water intakes from Lake Ontario showed non-detectable E. coli.
+- 从安大略湖取水并经处理的饮用水，大部分水厂出水中未检出大肠杆菌。
+- However, several nearshore recreational areas showed elevated E. coli after heavy rainfall events.
+- 然而，在强降雨事件之后，一些近岸娱乐用水区域的大肠杆菌指标有所升高。
+
+5. Management Implications / 管理启示
+- Overall, Lake Ontario nitrate levels are generally within WHO safe limits, with concern focused on short-term peaks during agricultural runoff.
+- 综合来看，安大略湖的硝酸盐总体在 WHO 安全范围内，主要关注点是农业径流季节的短期峰值。
+- Heavy metal concentrations remain close to, but generally below, WHO guidelines, indicating the need for long-term trend tracking.
+- 重金属浓度接近但通常低于 WHO 指南，需要进行长期趋势跟踪。
+- Strengthening agricultural best practices and runoff control will help reduce nutrient and contaminant loads.
+- 加强农业最佳实践和径流控制，有助于降低营养盐和污染物入湖负荷。

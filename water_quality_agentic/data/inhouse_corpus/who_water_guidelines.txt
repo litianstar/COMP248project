@@ -1,0 +1,34 @@
+WHO Drinking Water Guidelines – Simplified Excerpt
+世界卫生组织（WHO）饮用水水质指南 – 精简摘录
+
+1. Nitrate / 硝酸盐
+- Recommended maximum concentration: 50 mg/L as NO₃⁻
+- Long-term exposure above this level can increase health risks such as methemoglobinemia in infants.
+- 建议最高浓度：以 NO₃⁻ 计 50 mg/L
+- 长期超过该水平可能增加婴幼儿高铁血红蛋白症等健康风险。
+
+2. Microbial Quality / 微生物水质
+- E. coli: 0 CFU per 100 mL (should not be detectable in any drinking water sample).
+- Presence of E. coli indicates recent fecal contamination and potential presence of pathogens.
+- 大肠杆菌：100 mL 水样中不得检出（0 CFU）。
+- 检出大肠杆菌说明存在粪便污染风险，以及其他病原体可能存在。
+
+3. Heavy Metals / 重金属
+- Lead (Pb): guideline value < 0.01 mg/L
+- Arsenic (As): guideline value < 0.01 mg/L
+- Cadmium (Cd): guideline value < 0.003 mg/L
+- 铅（Pb）：指南值 < 0.01 mg/L
+- 砷（As）：指南值 < 0.01 mg/L
+- 镉（Cd）：指南值 < 0.003 mg/L
+
+4. General Principles / 一般原则
+- Regular monitoring of key parameters such as nitrate, microbial indicators, and heavy metals is essential.
+- Protection of source water is the first barrier in a multi-barrier approach.
+- 需要定期监测硝酸盐、微生物指标、重金属等关键参数。
+- 保护水源地是多重防护体系中的第一道关键屏障。
+
+5. Interpretation / 解释说明
+- Values below the guideline are generally considered safe for lifetime consumption.
+- Short-term peaks over the limit may still be acceptable if infrequent, but require investigation and management.
+- 指标长期低于指南值通常被认为对终生饮用是安全的。
+- 若短期监测值超过限值，需视频率与程度而定，通常需要进一步调查和管理措施。

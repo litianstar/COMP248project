@@ -1,0 +1,25 @@
+water_quality_agentic/
+│
+├─ frontend/
+│   └─ streamlit_app.py          # Streamlit 前端 UI
+│
+├─ backend/
+│   ├─ api_server.py             # 模拟 API Server 的中枢入口
+│   │
+│   ├─ agents/
+│   │   ├─ planner_agent.py      # Planner Agent
+│   │   ├─ inhouse_search_agent.py   # InHouseSearch Agent
+│   │   ├─ webscraper_agent.py       # WebSearcher / Scraper Agent
+│   │   ├─ summarizer_agent.py       # Summarizer Agent
+│   │   └─ introspection_agent.py    # Introspection Agent
+│   │
+│   └─ db/
+│       └─ local_db.py           # SQLite 简单封装
+│
+├─ data/
+│   ├─ inhouse_corpus/
+│   │   ├─ who_water_guidelines.txt
+│   │   └─ ontario_lake_report_2025.txt
+│   └─ sample_reflections.db     # SQLite 数据库文件（运行后生成）
+│
+└─ requirements.txt              # 依赖列表（可选）
