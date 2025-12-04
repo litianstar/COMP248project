@@ -1,0 +1,78 @@
+Rural Groundwater Quality – Key Risks
+农村地下水水质 – 主要风险
+
+--------------------------------------------------
+1. Typical Contaminants in Rural Groundwater
+农村地下水中常见污染物
+--------------------------------------------------
+English:
+- Nitrate (NO3-)
+- Pesticides and herbicides
+- Heavy metals (e.g., arsenic, cadmium, lead)
+- Microbial contamination (e.g., E. coli)
+- Naturally occurring substances (e.g., fluoride, manganese)
+
+中文：
+- 硝酸盐（NO3-）
+- 农药和除草剂
+- 重金属（如砷、镉、铅等）
+- 微生物污染（如大肠杆菌等）
+- 一些天然存在的物质（如氟化物、锰等）
+
+--------------------------------------------------
+2. Nitrate in Groundwater / 地下水中的硝酸盐
+--------------------------------------------------
+English:
+- Nitrate is one of the most common contaminants in rural groundwater.
+- Main sources:
+  - Nitrogen fertilizer applied to agricultural fields
+  - Livestock manure and manure storage lagoons
+  - Leaking septic systems and sewage
+- High nitrate levels in drinking water are especially dangerous for infants, causing methemoglobinemia (“blue baby syndrome”).
+
+中文：
+- 硝酸盐是农村地下水中最常见的污染物之一。
+- 主要来源：
+  - 农田施用的含氮化肥
+  - 畜禽粪便及粪污储存设施
+  - 渗漏的化粪池和生活污水
+- 饮用水中硝酸盐浓度过高对婴幼儿特别危险，可引发高铁血红蛋白症（俗称“蓝婴病”）。
+
+--------------------------------------------------
+3. Pesticides and Herbicides / 农药与除草剂
+--------------------------------------------------
+English:
+- Many pesticides and herbicides can leach into groundwater from agricultural fields.
+- Some compounds are persistent and may remain in groundwater for years.
+- Chronic exposure may increase risks of cancer, endocrine disruption, and other health effects.
+
+中文：
+- 许多农药和除草剂会从农田渗入地下水。
+- 一些化学品具有持久性，可在地下水中存在多年。
+- 长期暴露可能增加癌症、内分泌干扰等健康风险。
+
+--------------------------------------------------
+4. Heavy Metals in Groundwater / 地下水中的重金属
+--------------------------------------------------
+English:
+- Heavy metals such as arsenic and cadmium can occur naturally in groundwater, especially in certain geological formations.
+- Mining, industrial activities, and waste disposal can further increase heavy metal levels.
+- Long-term exposure above WHO guideline values can cause serious health effects.
+
+中文：
+- 在某些地质条件下，砷、镉等重金属可自然存在于地下水中。
+- 采矿、工业活动和不当废物处理会进一步抬升重金属浓度。
+- 长期饮用重金属含量高于 WHO 指导值的地下水，会造成严重健康危害。
+
+--------------------------------------------------
+5. Management and Monitoring / 管理与监测
+--------------------------------------------------
+English:
+- Regular testing of private wells is crucial in rural areas.
+- Protect wellheads from surface runoff, livestock access, and chemical storage.
+- Promote good agricultural practices and proper septic system maintenance.
+
+中文：
+- 在农村地区，定期检测自备井水质非常重要。
+- 保护井口，避免地表径流、畜禽直接进入和化学品就近存放。
+- 推广良好的农业实践，并确保化粪池等污水设施的正常运行。

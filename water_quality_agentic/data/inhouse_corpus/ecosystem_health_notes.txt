@@ -1,0 +1,76 @@
+Ecosystem Health Indicators in Lakes
+湖泊生态健康的关键指标
+
+--------------------------------------------------
+1. Fish Communities / 鱼类群落
+--------------------------------------------------
+English:
+- Fish species composition, age structure, and health are important indicators of ecosystem status.
+- Sensitive species may decline when water quality deteriorates or habitat is degraded.
+- The presence of deformities, lesions, or tumors in fish can signal long-term contamination.
+
+中文：
+- 鱼类的种类组成、年龄结构和健康状况是湖泊生态系统状态的重要指标。
+- 当水质恶化或栖息地受损时，敏感物种往往会减少或消失。
+- 鱼体畸形、病变或肿瘤的出现可能提示长期污染的存在。
+
+--------------------------------------------------
+2. Phytoplankton and Zooplankton / 浮游植物与浮游动物
+--------------------------------------------------
+English:
+- Phytoplankton (algae) respond quickly to nutrient enrichment, especially phosphorus and nitrogen.
+- Zooplankton graze on phytoplankton and link primary producers to higher trophic levels (fish).
+- Changes in species composition (e.g., dominance of cyanobacteria) can indicate eutrophication.
+
+中文：
+- 浮游植物（藻类）对营养盐（特别是磷和氮）增加反应迅速。
+- 浮游动物以浮游植物为食，是连接初级生产者和高营养级（如鱼类）的关键环节。
+- 种群结构改变（如蓝藻占优势）往往提示水体富营养化。
+
+--------------------------------------------------
+3. Algal Blooms and Harmful Algal Blooms (HABs)
+藻华与有害藻华
+--------------------------------------------------
+English:
+- Algal blooms occur when phytoplankton grow excessively due to high nutrient levels.
+- Some blooms are dominated by cyanobacteria that can produce toxins (cyanotoxins).
+- Harmful algal blooms (HABs) can affect drinking water safety, recreation, and aquatic life.
+
+中文：
+- 当营养盐水平升高时，浮游植物可能过度繁殖，形成大规模藻华。
+- 部分藻华由蓝藻主导，可产生藻毒素（cyanotoxins）。
+- 有害藻华会影响饮用水安全、休闲娱乐活动，并危害水生生物。
+
+--------------------------------------------------
+4. Physical-Chemical Indicators / 物理化学指标
+--------------------------------------------------
+English:
+- Key physical-chemical indicators of ecosystem health include:
+  - Dissolved oxygen (DO)
+  - Water temperature
+  - pH
+  - Nutrient concentrations (nitrogen, phosphorus)
+  - Transparency (Secchi depth)
+- Low dissolved oxygen in bottom waters can lead to fish kills and habitat loss.
+
+中文：
+- 描述湖泊生态健康的重要物理化学指标包括：
+  - 溶解氧（DO）
+  - 水温
+  - pH 值
+  - 营养盐浓度（氮、磷）
+  - 透明度（Secchi 盘深度）
+- 底层水体溶解氧偏低会导致鱼类死亡和栖息地丧失。
+
+--------------------------------------------------
+5. Integrated Assessment / 综合评估
+--------------------------------------------------
+English:
+- Ecosystem health is best assessed using multiple indicators rather than a single parameter.
+- Combining biological (fish, plankton), chemical (nutrients, contaminants), and physical (temperature, DO) data provides a more complete picture.
+- Long-term monitoring helps detect trends and evaluate the effectiveness of management actions.
+
+中文：
+- 评估湖泊生态健康不宜只依赖单一指标，而应综合多种生物、化学和物理指标。
+- 将鱼类、浮游生物等生物学数据与营养盐、污染物及温度、溶解氧等物理化学数据结合，能更全面地反映生态状态。
+- 长期监测有助于发现趋势变化，并评估管理措施的效果。

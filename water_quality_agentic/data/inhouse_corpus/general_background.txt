@@ -1,0 +1,82 @@
+General Background – Lake Ontario and Drinking Water
+总体背景 – 安大略湖与饮用水
+
+--------------------------------------------------
+1. Lake Ontario – Basic Facts
+安大略湖 – 基本情况
+--------------------------------------------------
+English:
+- Lake Ontario is one of the Laurentian Great Lakes in North America.
+- It receives inflows from Lake Erie via the Niagara River and drains into the St. Lawrence River.
+- The lake supports multiple uses, including drinking water supply, recreation, fisheries, and shipping.
+
+中文：
+- 安大略湖是北美五大湖之一。
+- 它通过尼亚加拉河接收来自伊利湖的水量，并最终经圣劳伦斯河向大西洋排水。
+- 安大略湖具有多种用途，包括饮用水供给、休闲娱乐、渔业和航运等。
+
+--------------------------------------------------
+2. Drinking Water and Human Use
+饮用水与人类利用
+--------------------------------------------------
+English:
+- Many communities around Lake Ontario rely on the lake as a source of treated drinking water.
+- Intakes are usually located offshore and draw water that is later treated (e.g., filtration, disinfection).
+- Ensuring compliance with WHO and local drinking water standards is essential for public health.
+
+中文：
+- 安大略湖周边的许多社区将湖水作为处理后饮用水的水源。
+- 取水口通常位于离岸一定距离的水域，取水后经过过滤、消毒等工艺处理。
+- 确保饮用水符合 WHO 以及当地标准，对公共健康至关重要。
+
+--------------------------------------------------
+3. Key Water-Quality Concerns
+主要水质关注点
+--------------------------------------------------
+English:
+- Nutrients: nitrate and phosphorus from agricultural runoff, wastewater, and urban stormwater.
+- Heavy metals: arsenic, cadmium, lead, and mercury from natural geology and human activities.
+- Microbial contamination: E. coli and other pathogens from sewage, septic systems, and animal waste.
+- Emerging concerns: microplastics, pharmaceuticals, and personal care products.
+
+中文：
+- 营养盐：硝酸盐和磷主要来自农业径流、生活污水和城市雨水径流。
+- 重金属：砷、镉、铅和汞等可来自地质背景及工业、人类活动。
+- 微生物污染：大肠杆菌及其他病原体往往源于污水、化粪池和畜禽粪便。
+- 新兴污染关注：微塑料、药品残留和个人护理品等。
+
+--------------------------------------------------
+4. Monitoring and Management
+监测与管理
+--------------------------------------------------
+English:
+- Water-quality monitoring programs track nutrients, heavy metals, microbial indicators, and other parameters at multiple stations.
+- Data are used to:
+  - Assess compliance with guidelines
+  - Detect long-term trends
+  - Support policy decisions and management actions
+- Collaboration among federal, provincial, and local agencies is critical for effective protection.
+
+中文：
+- 水质监测项目在多个站点采样，追踪营养盐、重金属、微生物指标以及其他参数。
+- 这些数据可用于：
+  - 评估是否符合各项指南标准
+  - 识别长期变化趋势
+  - 为政策制定和管理措施提供依据
+- 联邦、省以及地方各级机构之间的合作对有效保护安大略湖水质十分关键。
+
+--------------------------------------------------
+5. Relevance to Agentic AI System
+与智能体系统的关系
+--------------------------------------------------
+English:
+- This general background text provides context for:
+  - Planner Agent to understand “Lake Ontario” and “drinking water” questions
+  - InHouseSearch Agent to supply baseline information when no specific pollutant is mentioned
+- It supports more coherent and context-aware answers from the overall agent workflow.
+
+中文：
+- 本文提供的总体背景，可帮助：
+  - Planner Agent 更好地理解与“安大略湖”“饮用水”相关的问题
+  - InHouseSearch Agent 在未明确提到具体污染物时，提供基础背景信息
+- 这些内容有助于整个多智能体工作流给出更加连贯、具备情境意识的回答。

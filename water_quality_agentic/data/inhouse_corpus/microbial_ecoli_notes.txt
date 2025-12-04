@@ -1,0 +1,72 @@
+Microbial Contamination and E. coli in Drinking Water
+饮用水中的微生物污染与大肠杆菌
+
+--------------------------------------------------
+1. E. coli as an Indicator / 大肠杆菌作为指示菌
+--------------------------------------------------
+English:
+- Escherichia coli (E. coli) is widely used as an indicator of recent fecal contamination.
+- If E. coli is detected in drinking water, it suggests that pathogens from human or animal waste may also be present.
+- E. coli is more specific for fecal contamination than total coliforms.
+
+中文：
+- 大肠杆菌（E. coli）是饮用水质量监测中常用的“粪便污染指示菌”。
+- 在饮用水样中检出大肠杆菌，说明可能存在来自人畜排泄物的病原体。
+- 与总大肠菌群相比，大肠杆菌对粪便污染更具特异性。
+
+--------------------------------------------------
+2. WHO Guidelines for Microbial Safety
+WHO 微生物安全指南
+--------------------------------------------------
+English:
+- WHO guideline for E. coli in drinking water: 0 per 100 mL
+- This means no E. coli should be detectable in any 100 mL sample of treated drinking water.
+- For total coliforms, the presence in distribution systems is also undesirable and should be investigated.
+
+中文：
+- WHO 对饮用水中大肠杆菌的指南要求：每 100 mL 水样中不得检出（0 / 100 mL）。
+- 这意味着在任何一份 100 mL 处理后的饮用水样中，都不应检测到大肠杆菌。
+- 对于总大肠菌群，在供水管网中检出也需要进一步调查，并采取必要措施。
+
+--------------------------------------------------
+3. Health Risks / 健康风险
+--------------------------------------------------
+English:
+- Pathogens associated with fecal contamination include bacteria (e.g., pathogenic E. coli, Salmonella), viruses (e.g., norovirus), and protozoa (e.g., Giardia, Cryptosporidium).
+- Symptoms may include diarrhea, vomiting, fever, and in severe cases, dehydration and hospitalization.
+
+中文：
+- 与粪便污染相关的病原体包括细菌（如致病性大肠杆菌、沙门氏菌）、病毒（如诺如病毒）以及原生动物（如贾第鞭毛虫、隐孢子虫）等。
+- 感染后常见症状包括腹泻、呕吐、发热，严重时可导致脱水甚至需要住院治疗。
+
+--------------------------------------------------
+4. Sources of Microbial Contamination / 微生物污染的来源
+--------------------------------------------------
+English:
+- Inadequate disinfection of surface water sources
+- Intrusion of contaminated surface water into wells
+- Leaking septic tanks and sewage systems
+- Animal access to water sources (e.g., livestock in streams)
+- Heavy rainfall events that flush contaminants into surface and ground waters
+
+中文：
+- 地表水水源消毒不充分
+- 受污染地表水渗入地下水井
+- 渗漏的化粪池和污水管网
+- 畜禽直接进入河流或水源地
+- 强降雨过程将污染物冲刷进入地表水和地下水
+
+--------------------------------------------------
+5. Control Measures / 控制措施
+--------------------------------------------------
+English:
+- Maintain adequate disinfection (e.g., chlorination, UV disinfection).
+- Protect wellheads and intake structures from surface runoff and animal access.
+- Regularly inspect and maintain septic systems.
+- Monitor E. coli and coliform counts, especially after heavy rainfall or flooding events.
+
+中文：
+- 保持适当的消毒措施（如氯消毒、紫外消毒等）。
+- 保护井口和取水口，防止地表径流和畜禽进入。
+- 定期检查和维护化粪池及相关污水处理设施。
+- 在强降雨或洪涝之后，重点监测大肠杆菌和大肠菌群指标。

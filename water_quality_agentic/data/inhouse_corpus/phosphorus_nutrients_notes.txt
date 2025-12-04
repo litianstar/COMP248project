@@ -1,0 +1,70 @@
+Phosphorus and Nutrients in Freshwater Systems
+淡水系统中的磷与营养盐
+
+--------------------------------------------------
+1. Sources of Phosphorus / 磷的主要来源
+--------------------------------------------------
+English:
+- Phosphorus in lakes and rivers mainly comes from:
+  - Agricultural fertilizer runoff
+  - Livestock manure and storage lagoons
+  - Domestic wastewater and detergents
+  - Industrial discharges and food-processing effluents
+- In rural areas, poorly managed septic systems can also contribute phosphorus to nearby surface waters.
+
+中文：
+- 湖泊和河流中的磷主要来源包括：
+  - 农业化肥径流
+  - 畜禽粪便及粪污储存设施渗漏
+  - 生活污水和含磷洗涤剂
+  - 工业排放和食品加工废水
+- 在农村地区，管理不善的化粪池系统也可能向附近地表水体输送磷。
+
+--------------------------------------------------
+2. Role of Phosphorus in Eutrophication / 磷与富营养化
+--------------------------------------------------
+English:
+- Phosphorus is often the limiting nutrient in freshwater systems.
+- When phosphorus inputs increase, algae and aquatic plants can grow excessively, leading to eutrophication.
+- Eutrophication can cause:
+  - Algal blooms (including harmful algal blooms)
+  - Reduced water clarity
+  - Oxygen depletion (hypoxia or anoxia) in bottom waters
+  - Fish kills and loss of biodiversity
+
+中文：
+- 在大多数淡水系统中，磷往往是限制性营养元素。
+- 当外源磷输入增加时，藻类和水生植物会过度生长，从而引发富营养化。
+- 富营养化可能导致：
+  - 大量藻华（包括有害藻华）
+  - 水体透明度下降
+  - 底层水体溶解氧降低甚至缺氧
+  - 鱼类死亡和生物多样性下降
+
+--------------------------------------------------
+3. Ecological Impacts / 生态影响
+--------------------------------------------------
+English:
+- Persistent high phosphorus levels can shift the ecosystem from clear-water, plant-dominated states to turbid, algae-dominated states.
+- Changes in species composition of phytoplankton and zooplankton can alter food webs and affect fish communities.
+- Some cyanobacteria (blue-green algae) can produce toxins harmful to humans, pets, and wildlife.
+
+中文：
+- 持续高浓度的磷会使水体从“清澈、以大型水生植物为主”转变为“浑浊、以藻类为主”的状态。
+- 浮游植物和浮游动物种群结构的变化会改变食物网，从而影响鱼类群落。
+- 部分蓝藻（蓝绿藻）可产生对人类、宠物及野生动物有毒的藻毒素。
+
+--------------------------------------------------
+4. Management Strategies / 管理与控制措施
+--------------------------------------------------
+English:
+- Reduce phosphorus application rates and adopt precision fertilization in agriculture.
+- Maintain vegetated buffer strips along streams and lake shorelines to capture runoff.
+- Upgrade wastewater treatment plants to remove phosphorus more efficiently.
+- Promote phosphate-free detergents and better septic system maintenance in rural areas.
+
+中文：
+- 农业方面减少施肥量，并采用精准施肥技术。
+- 在河岸和湖岸带建立植被缓冲带，拦截地表径流中的磷。
+- 提高污水处理厂除磷工艺水平，提高去除效率。
+- 在农村地区推广无磷洗涤剂，并加强化粪池系统的维护与管理。

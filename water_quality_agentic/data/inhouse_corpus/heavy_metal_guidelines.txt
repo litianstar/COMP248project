@@ -1,0 +1,67 @@
+WHO Drinking Water Guidelines – Heavy Metals
+世界卫生组织（WHO）饮用水水质指南 – 重金属摘要
+
+--------------------------------------------------
+1. Cadmium (Cd) / 镉（Cd）
+--------------------------------------------------
+English:
+- Typical WHO guideline value for cadmium in drinking water: 0.003 mg/L
+- Cadmium is a toxic heavy metal that can accumulate in the body over time.
+- Long-term exposure above the guideline value can cause kidney damage, bone demineralization, and Itai-Itai–like symptoms.
+- Cadmium contamination often comes from mining, metal plating, battery manufacturing, and improper waste disposal.
+
+中文：
+- WHO 常用饮用水中镉的指导值：0.003 mg/L
+- 镉是一种有毒重金属，可在人体内逐渐蓄积。
+- 长期暴露在高于指导值的镉浓度环境中，会引起肾功能损伤、骨质脱矿，严重时可出现类似“痛痛病”的症状。
+- 镉污染常见来源包括采矿、金属电镀、电池制造以及工业废物处置不当等。
+
+--------------------------------------------------
+2. Arsenic (As) / 砷（As）
+--------------------------------------------------
+English:
+- Typical WHO guideline value for arsenic in drinking water: 0.01 mg/L
+- Arsenic can occur naturally in groundwater, especially in areas with arsenic-rich rocks and sediments.
+- Chronic exposure above the guideline value is associated with skin lesions, cardiovascular disease, and an increased risk of various cancers.
+- Arsenic in drinking water is a major concern in parts of Asia and other regions with naturally elevated arsenic.
+
+中文：
+- WHO 常用饮用水中砷的指导值：0.01 mg/L
+- 在含砷岩石和沉积物较多的地区，砷可自然存在于地下水中。
+- 长期饮用砷含量高于指导值的饮用水，会导致皮肤病变、心血管疾病，并增加多种癌症的风险。
+- 在亚洲部分地区以及砷含量天然较高的区域，饮用水砷污染是一个重要公共卫生问题。
+
+--------------------------------------------------
+3. Lead (Pb) / 铅（Pb）
+--------------------------------------------------
+English:
+- Typical WHO guideline value for lead in drinking water: 0.01 mg/L
+- Lead exposure is especially harmful to children, affecting brain development, intelligence, and behavior.
+- In adults, elevated lead levels can increase blood pressure and damage kidneys and the nervous system.
+- Major sources include lead pipes and solder in old distribution systems, as well as industrial emissions and contaminated soils.
+
+中文：
+- WHO 常用饮用水中铅的指导值：0.01 mg/L
+- 铅暴露对儿童尤为危险，可影响大脑发育、智力与行为。
+- 对成人而言，长期接触较高水平的铅会导致血压升高，并损伤肾脏和神经系统。
+- 铅污染的主要来源包括老旧供水系统中的铅管和含铅焊料，以及工业排放和受污染土壤等。
+
+--------------------------------------------------
+4. Mercury (Hg) / 汞（Hg）
+--------------------------------------------------
+English:
+- Typical WHO guideline value for total inorganic mercury in drinking water: around 0.006 mg/L
+- Mercury can exist in different forms; inorganic mercury is relevant for drinking water, while methylmercury is more important in fish.
+- Long-term ingestion of inorganic mercury above guideline levels may damage kidneys and the nervous system.
+- Sources include industrial discharges, mining activities, and atmospheric deposition.
+
+中文：
+- WHO 常用饮用水中无机汞的指导值：约 0.006 mg/L（不同版本指南可能略有调整）
+- 汞有多种形态：饮用水主要关注无机汞，而甲基汞更多通过食用鱼类摄入。
+- 长期饮用含高浓度无机汞的水，可造成肾脏和神经系统损伤。
+- 汞污染来源包括工业排放、采矿活动以及大气沉降等。
+
+--------------------------------------------------
+Note / 说明：
+- The exact guideline values may be updated in future WHO guideline documents, but these typical values are widely used in water-quality risk assessment.
+- 具体数值在后续 WHO 指南中可能会有微调，但上述典型值在水质风险评估中被广泛采用。
