@@ -8,7 +8,7 @@ from mistralai import Mistral
 
 # 从环境变量读取 API Key，避免写死在代码里
 # Read API key from environment variable
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "vPWl25nWDSm6GP0IlDrSDJCC3fBvBH8v")
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "your key")
 MISTRAL_MODEL_NAME = "mistral-small-latest"
 
 
