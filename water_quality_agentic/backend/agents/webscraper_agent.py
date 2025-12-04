@@ -4,7 +4,7 @@
 import os
 from mistralai import Mistral
 
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "vPWl25nWDSm6GP0IlDrSDJCC3fBvBH8v")
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "your key")
 MISTRAL_MODEL_NAME = "mistral-small-latest"
 
 class WebScraperAgent:
