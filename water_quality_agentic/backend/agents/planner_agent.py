@@ -10,7 +10,7 @@ from backend.agents.inhouse_search_agent import InHouseSearchAgent
 from backend.agents.webscraper_agent import WebScraperAgent
 from backend.agents.summarizer_agent import SummarizerAgent
 
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "vPWl25nWDSm6GP0IlDrSDJCC3fBvBH8v")
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "your key")
 MISTRAL_MODEL_NAME = "mistral-small-latest"
 
 
